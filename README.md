@@ -12,7 +12,8 @@ En los documentos adjuntos de excel viene la información para retresentar que l
 
 **Imagen 1** *Grafica de Rotacion de Personal* 
 
-Representa 
+El color representa las personas que se encuentran activs o por una razón decidieron darse de baja.
+
 ![Estatus](https://github.com/user-attachments/assets/afbcbc8f-0ad4-4f54-9074-a637810ad6d1)
 
 **Imagen 2** *Representacion de activos y Bajas hasta la fecha 2024* 
