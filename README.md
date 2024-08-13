@@ -30,3 +30,5 @@ Como se observa en la siguiente imagen sigue sobresaliendo el departamento de  P
 
 **Imagen 4** *Años con inasistencias*
 
+
+https://public.tableau.com/app/profile/eduardo.oropeza/viz/Casopracticoversion2/DepartamentoR_H?publish=yes
